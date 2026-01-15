@@ -1,11 +1,3 @@
-Got it 👍
-I’ve **read your notebook (`Project6.ipynb`)**, and it is clearly a **Telco Customer Churn Classification project** with full EDA, preprocessing, scaling, and multi-model comparison.
-
-Below is a **clean, professional README.md** written **exactly according to your code and workflow**.
-You can **directly copy-paste this into GitHub**.
-
----
-
 # 📊 Telco Customer Churn Prediction (Classification)
 
 ## 📌 Project Overview
